@@ -1,0 +1,1 @@
+# locpats-website-assets
